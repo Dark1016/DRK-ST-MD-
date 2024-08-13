@@ -57,7 +57,7 @@ global.SESSION_ID =
 
 
   
- //your session id "" //Make sure session id starts with Byte;;;
+ "wap mete session id ou a la 🔪🔪💔" //Make sure session id starts with Byte;;;
 
 
 
